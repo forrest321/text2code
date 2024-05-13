@@ -9,7 +9,7 @@ This tool is intended to work with output from [`code2text`](https://github.com/
 ## Installation
 
 ### Find the executable for your system in releases
-
+[`text2code releases`](https://github.com/forrest321/text2code/releases)
 
 ### Prerequisites
 - Go (1.15 or later) [Only if installing from source]
