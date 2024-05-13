@@ -21,3 +21,5 @@
 go.work
 .idea/
 text2code
+
+dist/
